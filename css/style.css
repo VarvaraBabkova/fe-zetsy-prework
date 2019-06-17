@@ -36,6 +36,6 @@ h1, h2 {
 }
 
 #necklace {
-	border: 3px;
+	border-width: : 3px;
 	border-color: rgb(156, 172, 166);
 }
