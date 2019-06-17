@@ -34,3 +34,8 @@ h1 {
 h1, h2 {
 	color: rgb(156, 172, 166);
 }
+
+#necklace {
+	border: 3px;
+	border-color: rgb(156, 172, 166);
+}
