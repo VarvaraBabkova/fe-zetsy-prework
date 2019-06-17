@@ -36,7 +36,7 @@ h2 {
     font-size: 2em;
 }
 h1, h2 {
-	color: rgb(156, 172, 166);
+	color: rgb(114,127,122);
 }
 
 #necklace {
@@ -48,7 +48,7 @@ h1, h2 {
 }
 
 .link-img:hover {
-	border: 5px rgb(152,173,166) solid;
+	border: 5px rgb(114,127,122) solid;
 	   padding: 1px;
 }
 #copyright {
