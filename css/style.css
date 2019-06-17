@@ -46,6 +46,11 @@ h1, h2 {
 	border: 5px #ccc solid;
 	   padding: 1px;
 }
+
+.link-img:hover {
+	border: 5px rgb(152,173,166) solid;
+	   padding: 1px;
+}
 #copyright {
 	float: right;
 }
