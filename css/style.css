@@ -51,4 +51,9 @@ h1, h2 {
 }
 .col{
 	width: 25%;
+	float: left;
+}
+.press {
+  width: 960px;
+  margin: 0 auto;
 }
