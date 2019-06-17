@@ -49,3 +49,6 @@ h1, h2 {
 #copyright {
 	float: right;
 }
+.col{
+	width: auto;
+}
