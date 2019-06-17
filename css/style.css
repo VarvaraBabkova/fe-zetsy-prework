@@ -42,3 +42,7 @@ h1, h2 {
 #necklace {
 	border: 5px rgb(152,173,166) solid;
 }
+.link-img {
+	border: 5px #ccc solid;
+	   padding: 1px;
+}
